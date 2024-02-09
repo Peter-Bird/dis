@@ -1,0 +1,12 @@
+{
+    "fields": [
+      {"name": "Kind", "default": 1},
+      {"name": "Domain", "default": 2},
+      {"name": "Country", "default": 225},
+      {"name": "Category", "default": 1},
+      {"name": "Subcategory", "default": 1},
+      {"name": "Specific", "default": 1},
+      {"name": "Extra", "default": 0}
+    ]
+  }
+  
